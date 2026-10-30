@@ -1,0 +1,24 @@
+# ESP-IDF build files
+build/
+sdkconfig
+sdkconfig.old
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Compiled files
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+
+# Logs
+*.log
